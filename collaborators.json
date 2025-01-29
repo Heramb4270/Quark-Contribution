@@ -7,6 +7,15 @@
           "funfact": "The first computer game was made in 1962! 🎮",
           "feedback": "Got to know how to generate pull requests on Github"
         }
+        ,
+        {
+          "name": "Utkarsh",
+          "year": "fY",
+          "dept": "CS-CBI",
+          "funfact": "The Linux kernel, created by Linus Torvalds in 1991🎮",
+          "feedback": "Got to know how to generate pull requests on Github"
+        }
     ]
-   
+
+
 }

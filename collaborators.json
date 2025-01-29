@@ -12,7 +12,8 @@
           "dept": "AIDS",
           "funfact": "You are taller than when you are lying down",
           "feedback": "Got to know how to generate pull requests on Github"
-        },{
+        },
+        {
           "name":"Rachit Ingole",
           "year":"FY",
           "dept":"CS",
@@ -32,8 +33,7 @@
           "dept":"CS",
           "funfact":"There are more than 700 programming languages in the world !",
           "feedback":"Got to learn various git commands"
-        }
-        ,
+        },
         {
           "name": "Utkarsh",
           "year": "fY",

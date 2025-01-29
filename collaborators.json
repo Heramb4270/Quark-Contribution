@@ -1,13 +1,12 @@
 {
     "collaborators":[
         {
-          "name": "John Doe",
-          "year": "TY",
+          "name": "Aditya Katkar",
+          "year": "FY",
           "dept": "CS",
-          "funfact": "The first computer game was made in 1962! 🎮",
-          "feedback": "Got to know how to generate pull requests on Github"
+          "funfact": "ITS ALL ABOUT 1'S AND 0'S..yepp",
+          "feedback": "Got to know how to generate pull requests on Github and add , commit and many more"
         },
-        {
           "name": "Raghav Kumar",
           "year": "FY",
           "dept": "AIDS",
@@ -20,14 +19,36 @@
           "funfact":"The password for the computers that controlled the US Army's nuclear missiles was 0000000000. ",
           "feedback":"Sugoi!(すごい)"
 
+
         },
         {
           "name": "Rajiv Patil",
           "year": "FY",
           "dept": "CS-CBI",
           "funfact": "Dolphins do creepy stuffs",
+        },
+        {
+            "name": "Harsh Patil",
+            "year": "TY",
+            "dept": "IT",
+            "funfact": "I am the Technical Head at Quark O.o",
+            "feedback": "Wow, is this how you make a PR?!"
+        },
+        {
+          "name":"Anvay Anturkar",
+          "year":"FY",
+          "dept":"CS",
+          "funfact":"There are more than 700 programming languages in the world !",
+          "feedback":"Got to learn various git commands"
+        }
+        ,
+        {
+          "name": "Utkarsh",
+          "year": "fY",
+          "dept": "CS-CBI",
+          "funfact": "The Linux kernel, created by Linus Torvalds in 1991🎮",
           "feedback": "Got to know how to generate pull requests on Github"
         }
     ]
-   
+
 }

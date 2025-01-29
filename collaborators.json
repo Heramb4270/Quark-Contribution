@@ -10,3 +10,17 @@
     ]
    
 }
+
+ {
+  2     "collaborators":[
+  3         {
+  4           "name": "Tanishq Thuse",
+  5           "year": "SY",
+  6           "dept": "CSAI",
+  7           "funfact": "The first computer game was made in 1962! 🎮",
+  8           "feedback": "Got to know how to generate pull requests on Github"
+  9         }
+ 10     ]
+ 11
+ 12 }
+~

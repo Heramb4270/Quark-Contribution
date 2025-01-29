@@ -19,8 +19,13 @@
           "dept":"CS",
           "funfact":"The password for the computers that controlled the US Army's nuclear missiles was 0000000000. ",
           "feedback":"Sugoi!(すごい)"
-
+        },
+        {
+            "name": "Harsh Patil",
+            "year": "TY",
+            "dept": "IT",
+            "funfact": "I am the Technical Head at Quark O.o",
+            "feedback": "Wow, is this how you make a PR?!"
         }
     ]
-   
 }

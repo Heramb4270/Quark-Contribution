@@ -27,5 +27,14 @@
           "funfact":"There are more than 700 programming languages in the world !",
           "feedback":"Got to learn various git commands"
         }
+        ,
+        {
+          "name": "Utkarsh",
+          "year": "fY",
+          "dept": "CS-CBI",
+          "funfact": "The Linux kernel, created by Linus Torvalds in 1991🎮",
+          "feedback": "Got to know how to generate pull requests on Github"
+        }
     ]
+
 }

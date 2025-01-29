@@ -19,6 +19,13 @@
             "dept": "IT",
             "funfact": "I am the Technical Head at Quark O.o",
             "feedback": "Wow, is this how you make a PR?!"
+        },
+        {
+          "name":"Anvay Anturkar",
+          "year":"FY",
+          "dept":"CS",
+          "funfact":"There are more than 700 programming languages in the world !",
+          "feedback":"Got to learn various git commands"
         }
     ]
 }

@@ -1,13 +1,6 @@
 {
     "collaborators":[
         {
-          "name": "John Doe",
-          "year": "TY",
-          "dept": "CS",
-          "funfact": "The first computer game was made in 1962! 🎮",
-          "feedback": "Got to know how to generate pull requests on Github"
-        },
-        {
           "name": "Raghav Kumar",
           "year": "FY",
           "dept": "AIDS",
@@ -19,8 +12,13 @@
           "dept":"CS",
           "funfact":"The password for the computers that controlled the US Army's nuclear missiles was 0000000000. ",
           "feedback":"Sugoi!(すごい)"
-
+        },
+        {
+            "name": "Harsh Patil",
+            "year": "TY",
+            "dept": "IT",
+            "funfact": "I am the Technical Head at Quark O.o",
+            "feedback": "Wow, is this how you make a PR?!"
         }
     ]
-   
 }
